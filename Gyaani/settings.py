@@ -25,9 +25,7 @@ SECRET_KEY = '2vn8#toh=yxyjs1mlac&3s0pk@do95&+e#tp$^ws+*!mx7@o$)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [
-	'dips2705.pythonanywhere.com'
-]
+ALLOWED_HOSTS = ['dips2705.pythonanywhere.com']
 
 
 # Application definition
